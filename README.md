@@ -1,1 +1,1 @@
-# trianglevisual_streamlit
+# triangle_visual_streamlit
